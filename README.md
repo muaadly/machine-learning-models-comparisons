@@ -1,0 +1,2 @@
+# Machine-Learning-Models-Comparisons
+In this project, I applied three machine learning models to  classify two datasets. The SVM resulted 97% and 73% for  Dataset A (German Credit) and Dataset B (Breast Cancer) respectively. The Random  Forest model resulted 96% and 71% for Dataset (A) and  Dataset (B) respectively. The Gaussian Naïve Bayes  resulted 93% and 69% for Dataset (A) and Dataset (B)  respectively. 
